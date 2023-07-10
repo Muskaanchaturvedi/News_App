@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/nicole-goodkind\">Nicole Goodkind</a> and Lucy Bayly, CNN",
+      "title": "The latest on the Silicon Valley Bank collapse: Live updates - CNN",
+      "description": "Moody's Investors Service, a US-based credit rating firm, cut its outlook for the entire US banking sector Tuesday after placing six US banks on review for potential credit rating downgrades. Follow here for live updates.",
+      "url": "https://www.cnn.com/business/live-news/silicon-valley-bank-collapse-updates-03-14-23/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230313130109-01-svb-silicon-valley-bank-0313-super-tease.jpg",
+      "publishedAt": "2023-03-14T18:44:28Z",
+      "content": "Investors are searching for clarity in the wake of Friday's collapse of Silicon Valley Bank  the biggest failure of a US bank since 2008. And as they attempt to predict what comes next be it wider fi… [+2048 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Russian jet collides with US drone over Black Sea - BBC",
+      "description": "The US says its drone was operating in international airspace when Russian jets tried to intercept it.",
+      "url": "https://www.bbc.com/news/world-europe-64957792",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141AC/production/_128984328_mediaitem128984327.jpg",
+      "publishedAt": "2023-03-14T18:16:06Z",
+      "content": "A Russian fighter jet has collided with a US drone, causing the unmanned US aircraft to crash into the Black Sea, the American military says.\r\nIt says the drone was on a routine mission in internatio… [+1361 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Brent Lang",
+      "title": "A24 Scores Oscars Sweep, Even as Its Secretive Founders Shun the Spotlight - Variety",
+      "description": "A24, the scrappy indie studio that has built a brand for itself as a home for hip and cutting-edge movies, triumphed over its deeper-pocketed rivals at the Oscars on Sunday. It scored a leading nin…",
+      "url": "https://variety.com/2023/film/awards/a24-oscars-everything-everywhere-all-at-once-secretive-founders-the-whale-1235553835/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/03/The-Daniels-Best-Director-Oscars-Everything-Everywhere-All-at-Once-2.jpg?w=1000&h=562&crop=1",
+      "publishedAt": "2023-03-14T18:10:04Z",
+      "content": "A24, the scrappy indie studio that has built a brand for itself as a home for hip and cutting-edge movies, triumphed over its deeper-pocketed rivals at the Oscars on Sunday. It scored a leading nine … [+5219 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Michael Middlehurst-Schwartz",
+      "title": "NFL free agency news, rumors: Latest buzz on top players, teams - USA TODAY",
+      "description": "NFL free agency doesn't officially start until Wednesday, but many of the top players are agreeing to deals during the negotiating period.",
+      "url": "https://www.usatoday.com/story/sports/nfl/2023/03/14/nfl-free-agency-news-rumors-tuesday-live-updates/11469571002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/14/USAT/eba39172-848d-42c6-a478-eec57be4153e-USATSI_19728424.jpg?crop=7925,4458,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2023-03-14T17:56:53Z",
+      "content": "NFL free agency doesn't officially begin until Wednesday, but a number of top players on the market are already spoken for. \r\nWhile the league won't mark the start of its league year until 4 p.m. ET … [+5127 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
+      "title": "Poland ready to provide MiG-29s to Ukraine in 4 to 6 weeks; Russia fighter jet strikes US drone: Live updates - USA TODAY",
+      "description": "The Polish military has almost 30 of the MiG-29 fighter jets, but the prime minister did not say how many jets he would be willing to commit. Updates.",
+      "url": "https://www.usatoday.com/story/news/world/2023/03/14/ukraine-russia-war-live-updates/11469948002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/14/USAT/082acd45-657b-450a-aea7-811edf3f990d-AP_Russia_Ukraine_War_31.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200",
+      "publishedAt": "2023-03-14T17:48:45Z",
+      "content": "Poland could provide Ukraine with MiG-29 fighter jets within four to six weeks if a coalition of allies signs off on the plan, Prime Minister Mateusz Morawiecki said Tuesday.\r\nMorawiecki said last we… [+4474 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Alex Hern",
+      "title": "Zuckerberg's Meta to lay off another 10000 employees - The Guardian",
+      "description": "Restructuring, as part of the company’s ‘Year of Efficiency’, also sees 5,000 unfulfilled job adverts closed",
+      "url": "https://www.theguardian.com/technology/2023/mar/14/mark-zuckerberg-meta-layoffs-hiring-freeze",
+      "urlToImage": "https://i.guim.co.uk/img/media/b942a214b5b87c90d61bc346e89b756cb014c3c2/0_98_3000_1799/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef2637b0b2ef43738579cc41b09bbfca",
+      "publishedAt": "2023-03-14T17:48:00Z",
+      "content": "Mark Zuckerbergs Meta is laying off another 10,000 people and instituting a further hiring freeze as part of the companys Year of Efficiency, the chief executive announced in a Facebook post on Tuesd… [+4119 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jennifer Korn",
+      "title": "SVB collapse was driven by 'the first Twitter-fueled bank run' - CNN",
+      "description": "The massive amount of customer withdrawals that led to the collapse of Silicon Valley Bank had all the hallmarks of an old-fashioned bank run, but with a new twist befitting the primary industry the bank served: much of it unfolded online.",
+      "url": "https://www.cnn.com/2023/03/14/tech/viral-bank-run/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230314061238-silicon-valley-bank-file-restricted-031323.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-14T17:19:00Z",
+      "content": "The massive amount of customer withdrawals that led to the collapse of Silicon Valley Bank had all the hallmarks of an old-fashioned bank run, but with a new twist befitting the primary industry the … [+3797 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By <a href=\"/profiles/tara-subramaniam\">Tara Subramaniam</a>, Jack Guy, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, Mike Hayes and <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, CNN",
+      "title": "Russia's war in Ukraine: Live updates - CNN",
+      "description": "Fighting in Bakhmut appears to be focused around a sprawling industrial plant in the north of the city. Follow here for live news updates.",
+      "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-03-14-23/index.html",
+      "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/8b8d8588-4fe9-4d7b-811f-bb1823ff38d3.jpg",
+      "publishedAt": "2023-03-14T17:12:00Z",
+      "content": "The International Criminal Court (ICC) is planning to open two war crimes cases tied to the Russian invasion of Ukraine and issue arrest warrants against several people, according to the New York Tim… [+1375 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "Lindsay Lohan Pregnant, Expecting First Baby with Husband Bader Shammas - PEOPLE",
+      "description": "Lindsay Lohan and Bader Shammas tied the knot in April",
+      "url": "https://people.com/parents/lindsay-lohan-husband-bader-shammas-expecting-first-baby/",
+      "urlToImage": "https://people.com/thmb/_l6afx7E7f1cqwoan0qVCjX7wjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x398:981x400)/Lindsay-Lohan-122422-02-8a78e59dca40401a8a3fa242a7a69e7d.jpg",
+      "publishedAt": "2023-03-14T16:57:00Z",
+      "content": "Lindsay Lohan is going to be a mom!\r\nThe Parent Trap star, 36, is pregnant, expecting her first baby with husband Bader Shammas, she announced on Instagram Tuesday.\r\nAlongside a photo of a white ones… [+1883 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XDA Developers" },
+      "author": "Timi Cantisano",
+      "title": "Google Pixel 8 Pro gets revealed in newly leaked renders - XDA Developers",
+      "description": "It looks like the Google Pixel 8 Pro has leaked, giving us a excellent look at its exterior.",
+      "url": "https://www.xda-developers.com/google-pixel-8-pro-first-look/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/03/pixel-8-pro-5k2-scaled-1.webp",
+      "publishedAt": "2023-03-14T16:39:00Z",
+      "content": "It's finally happened. We're getting our first look at the Google Pixel 8 Pro. While Google hasn't acknowledged the handset's existence or even teased it, we know that it's coming this year and this … [+1844 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/andrew-tarantola",
+      "title": "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides - Engadget",
+      "description": "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products..",
+      "url": "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg",
+      "publishedAt": "2023-03-14T16:18:41Z",
+      "content": "Google has been scrambling to catch up to to OpenAI for months, ever since the latter dropped its conversational bot, ChatGPT, and took the generative AI industry by storm. Google's first attempted r… [+1888 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Cyclone Freddy kills 190 in Malawi as rain complicates rescue efforts - Reuters",
+      "description": "Cyclone Freddy, one of the most powerful storms ever recorded in the southern hemisphere, has killed 190 people in Malawi after ripping through southern Africa for the second time in a month, Malawi's government said on Tuesday.",
+      "url": "https://www.reuters.com/world/africa/malawis-storm-freddy-death-toll-jumps-190-2023-03-14/",
+      "urlToImage": "https://www.reuters.com/resizer/opOgde-pAmPTohPyz9cR4RDthNk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7NXAHGWQHFPZZBHMQNUAWYCNBE.jpg",
+      "publishedAt": "2023-03-14T15:28:00Z",
+      "content": "BLANTYRE, March 14 (Reuters) - Cyclone Freddy, one of the most powerful storms ever recorded in the southern hemisphere, has killed 190 people in Malawi after ripping through southern Africa for the … [+2752 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Passant Rabie",
+      "title": "NASA's Latest Request for Cash Includes Big Plans for a Deorbiting ISS 'Space Tug' - Gizmodo",
+      "description": "The Biden administration wants $27.2 billion for NASA’s 2024 budget, with the space agency prioritizing Moon and Mars missions.",
+      "url": "https://gizmodo.com/nasa-budget-request-iss-space-tug-moon-mars-artemis-1850220326",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/57c456032a8fd71dc591c13211c5c1f0.jpg",
+      "publishedAt": "2023-03-14T15:25:00Z",
+      "content": "NASA is staying focused on the Artemis lunar program, its Moon to Mars objectives, and maintaining a presence in low Earth orbit as part of the agencys proposed budget for 2024. The space agency also… [+4636 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Isabel Keane",
+      "title": "First nor'easter of the season brings rain, wind to the Big Apple - New York Post ",
+      "description": "A powerful nor’easter dumped over a foot of heavy snow in parts of upstate New York this week while mostly sparing the Big Apple, where heavy rain and damaging winds will continue to intensif…",
+      "url": "https://nypost.com/2023/03/14/first-noreaster-of-the-season-brings-rain-wind-to-nyc/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/noreaster-comp-2.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-03-14T14:32:00Z",
+      "content": "A powerful nor’easter has buried parts of upstate and central New York under a foot and a half of snow, as rain and heavy winds from the storm lashed the Big Apple Tuesday.\r\nThe first nor’easter of t… [+3121 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tina Burnside",
+      "title": "Missing Dallas teen was abducted and raped by man she met online and locked in a shed in North Carolina, authorities say - CNN",
+      "description": "A 13-year-old girl reported missing in Dallas was found locked in a shed more than 1,000 miles away in North Carolina after she was abducted and raped by a man she met on a social media platform, authorities said.",
+      "url": "https://www.cnn.com/2023/03/14/us/north-carolina-missing-teen-dallas-found/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230314080028-01-nc-man-abducts-tx-teen-screengrab.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-14T14:28:00Z",
+      "content": "A 13-year-old girl reported missing in Dallas was found locked in a shed more than 1,000 miles away in North Carolina after she was abducted and raped by a man she met on a social media platform, aut… [+2129 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Aubrie Spady",
+      "title": "SVB collapse: Moody's flags six other banks with concerning credit ratings - Fox Business",
+      "description": "Moody's Investors Services placed six banks on review for downgrade after the sudden collapse of Silicon Valley Bank on Friday.",
+      "url": "https://www.foxbusiness.com/politics/svb-collapse-moodys-flags-six-banks-concerning-credit-ratings",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/2023-03-13T113613Z_2_LYNXMPEJ2C0EK_RTROPTP_4_USA-MARKETS-SVB-FINANCIAL-GROUP.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-14T14:11:54Z",
+      "content": "Moody's Investors Services, a credit rating system, put several banks on review for a potential downgrade following the collapse of Silicon Valley Bank (SVB).\r\nThe Federal Deposit Insurance Corporati… [+2787 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NASA" },
+      "author": null,
+      "title": "NASA's SpaceX Crew-5 to Discuss Mission Following Return to Earth - NASA",
+      "description": "Following a five-month stay aboard the International Space Station, the four members of NASA’s SpaceX Crew-5 mission are safely back on Earth and will answer questions in a news conference at 2 p.m. EDT Wednesday, March 15.",
+      "url": "https://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth",
+      "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/52341863186_f8ed9670a4_o_0.jpeg",
+      "publishedAt": "2023-03-14T14:10:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Doric Sam",
+      "title": "49ers Rumors: Sam Darnold Signs 1-Year Contract After Jimmy Garoppolo Joins Raiders - Bleacher Report",
+      "description": "<b>SIGNS WITH TEAM X</b> After spending the last two seasons with the Carolina Panthers, quarterback Sam Darnold has found a new home. According to...",
+      "url": "https://bleacherreport.com/articles/10062906-49ers-rumors-sam-darnold-signs-1-year-contract-after-jimmy-garoppolo-joins-raiders",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1674597022/yqi5ei53ds776rpi0erx.jpg",
+      "publishedAt": "2023-03-14T14:08:44Z",
+      "content": "Julio Aguilar/Getty Images\r\nAfter spending the last two seasons with the Carolina Panthers, quarterback Sam Darnold has found a new home.\r\nAccording to ESPN's Adam Schefter, the 25-year-old has agree… [+1727 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Janie Har",
+      "title": "San Francisco to air Black reparations plan, $5M per person - The Associated Press - en Español",
+      "description": "SAN FRANCISCO (AP) — A controversial draft reparations proposal that includes a $5 million lump-sum payment for each eligible Black person could make San Francisco the first major U.S. city to fund reparations, though it faces steep financial headwinds and bl…",
+      "url": "https://apnews.com/article/san-francisco-black-reparations-5-million-36899f7974c751950a8ce0e444f86189",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a53d5187ab19420a9a268056dc203f96/3000.webp",
+      "publishedAt": "2023-03-14T14:06:19Z",
+      "content": "SAN FRANCISCO (AP) A controversial draft reparations proposal that includes a $5 million lump-sum payment for each eligible Black person could make San Francisco the first major U.S. city to fund rep… [+5947 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Zeke Miller",
+      "title": "Biden to issue order to strengthen gun background checks - The Associated Press - en Español",
+      "description": "SAN DIEGO (AP) — President Joe Biden is expected to sign an executive order on Tuesday aiming to increase the number of background checks to buy guns, promote better and more secure firearms storage and ensure U.S.",
+      "url": "https://apnews.com/article/biden-guns-mass-shooting-monterey-park-uvalde-489c236fd6ed12ab5d74a67ce5ecd501",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7bf88c4b9ce84d1ca9e4cf66e216d1a0/3000.webp",
+      "publishedAt": "2023-03-14T13:57:26Z",
+      "content": "SAN DIEGO (AP) President Joe Biden is expected to sign an executive order on Tuesday aiming to increase the number of background checks to buy guns, promote better and more secure firearms storage an… [+4217 chars]"
+    }
+  ]
+}
